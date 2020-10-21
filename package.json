@@ -1,0 +1,26 @@
+{
+  "name": "hexo-typora-img",
+  "version": "1.0.0",
+  "description": "Convert Markdown Image Path Before Render POST",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsStrike/hexo-typora-img.git"
+  },
+  "keywords": [
+    "hexo",
+    "typora",
+    "image",
+    "path",
+    "markdown"
+  ],
+  "author": "zsStrike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zsStrike/hexo-typora-img/issues"
+  },
+  "homepage": "https://github.com/zsStrike/hexo-typora-img#readme"
+}
