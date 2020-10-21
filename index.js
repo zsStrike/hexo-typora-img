@@ -1,6 +1,6 @@
 'use strict';
 
-// match markdown image and covert to asset_img 
+// match markdown image and covert to hexo valid image path
 hexo.extend.filter.register('before_post_render', function(data){
 
     data.content = data.content.replace(/!{1}\[([^\[\]]*)\]\((\S*)\s?(?:".*")?\)/g,
