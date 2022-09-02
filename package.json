@@ -1,6 +1,6 @@
 {
   "name": "hexo-typora-img",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert Markdown Image Path Before Render POST",
   "main": "index.js",
   "scripts": {
